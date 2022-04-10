@@ -1,5 +1,5 @@
 <div align="center">
-# Sibes
+## Sibes🍔
 Sibes is a mobile app platform that helps people to donate their left over to people in need.
 </div>
 
