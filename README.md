@@ -16,7 +16,7 @@ Sibes is an app to help people to share their leftover food. Anyone can list the
 
 ## Technologies Used
 
-• Flutter
+• Flutter <br/>
 • Firebase
 
 ## Challenges we ran into
