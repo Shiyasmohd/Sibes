@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552347428018",
+    "project_id": "foodie-3f1f9",
+    "storage_bucket": "foodie-3f1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552347428018:android:520ad6f0d5e369318b95ab",
+        "android_client_info": {
+          "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552347428018-rs8jth2g6nmsd45b3ekfm6s7ophb7rid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSNCYXsTFmjInG9borKCbblPvqt9iaV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552347428018-rs8jth2g6nmsd45b3ekfm6s7ophb7rid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
