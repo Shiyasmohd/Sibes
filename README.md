@@ -1,6 +1,9 @@
-<div align="center">
-## Sibes🍔
-Sibes is a mobile app platform that helps people to donate their left over to people in need.
+<div align="center" style="font-family:'Montserrat', sans-serif;">
+  
+## Sibes 🍔
+
+  <br/>
+  Sibes is a mobile app platform that helps people to donate their left over to people in need.
 </div>
 
 ## Inspiration
